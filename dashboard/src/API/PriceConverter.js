@@ -1,0 +1,1 @@
+export const PriceConverter = new Intl.NumberFormat('ng-NG')
